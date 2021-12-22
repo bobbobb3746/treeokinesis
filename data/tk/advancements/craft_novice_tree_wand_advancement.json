@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "novice_tree_wand_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tk:novice_tree_wand"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tk:give_custom_items/give_novice_tree_wand"
+    }
+}

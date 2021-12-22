@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "tree_pearl_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tk:tree_pearl"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tk:give_custom_items/give_tree_pearl"
+    }
+}

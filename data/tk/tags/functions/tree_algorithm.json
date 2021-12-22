@@ -1,0 +1,8 @@
+{
+    "values":[
+        "tk:tree_algorithm/core",
+        "tk:tree_algorithm/corner",
+        "tk:tree_algorithm/edge",
+        "tk:tree_algorithm/side"
+    ]
+}
